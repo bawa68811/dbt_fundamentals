@@ -2,7 +2,7 @@
 (materialized = "table")
 }}
 
-SELECT 0 AS AGEKEY, 'Unknown' AS AGE
+SELECT 0 AS AGEKEY, 'Unknown Age' AS AGE
 UNION ALL
 SELECT 1 AS AGEKEY, 'Age Between 0 - 10' AS AGE
 UNION ALL
