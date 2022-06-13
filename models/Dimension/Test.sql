@@ -5,3 +5,5 @@ union all
 select 3
 union all
 select 4
+union all
+select 5
