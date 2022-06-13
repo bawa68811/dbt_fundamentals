@@ -7,3 +7,5 @@ union all
 select 4
 union all
 select 5
+union all
+select 6
