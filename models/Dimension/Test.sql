@@ -9,3 +9,6 @@ union all
 select 5
 union all
 select 6
+union all
+select 7
+
